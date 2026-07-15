@@ -1,0 +1,81 @@
+%PDF-1.4
+%ASCII
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3370 >>
+stream
+0.035 0.090 0.180 rg 0 720 612 72 re f
+0.000 0.360 0.950 rg 0 712 612 8 re f
+BT /F2 22.0 Tf 1.000 1.000 1.000 rg 54.0 759.0 Td (INTEGRATION CLOSURE RECORD) Tj ET
+BT /F1 9.0 Tf 0.750 0.870 1.000 rg 54.0 738.0 Td (Illustrative working artifact - not an internal Latitude form) Tj ET
+BT /F2 10.0 Tf 1.000 1.000 1.000 rg 470.0 759.0 Td (LATITUDE AI) Tj ET
+BT /F1 8.0 Tf 0.750 0.870 1.000 rg 470.0 738.0 Td (SYSTEM COHERENCE) Tj ET
+0.730 0.800 0.880 RG 0.60 w 54 42 m 558 42 l S
+BT /F1 7.5 Tf 0.350 0.390 0.450 rg 54.0 27.0 Td (Independent candidate materials by Russell Dudek) Tj ET
+BT /F2 7.5 Tf 0.350 0.390 0.450 rg 520.0 27.0 Td (1 / 1) Tj ET
+BT /F2 8.8 Tf 0.080 0.110 0.160 rg 54.0 690.0 Td (Purpose: make a cross-domain issue explainable enough to reproduce, decide, repair, validate, and learn from.) Tj ET
+0.650 0.730 0.820 rg 54 633 504 34 re S
+0.650 0.730 0.820 RG 0.60 w 306 633 m 306 667 l S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 653.0 Td (ISSUE / PLATFORM / FEATURE / BUILD) Tj ET
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 314.0 653.0 Td (RELEASE CONSEQUENCE / DECISION OWNER) Tj ET
+0.650 0.730 0.820 rg 54 580 504 48 re S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 614.0 Td (OBSERVED BEHAVIOR - FACTS ONLY) Tj ET
+0.650 0.730 0.820 rg 54 537 504 38 re S
+0.650 0.730 0.820 RG 0.60 w 306 537 m 306 575 l S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 561.0 Td (EXPECTED SYSTEM BEHAVIOR / INVARIANT) Tj ET
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 314.0 561.0 Td (CONFIDENCE / UNKNOWNS) Tj ET
+0.650 0.730 0.820 rg 54 478 504 54 re S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 518.0 Td (MINIMUM REPRODUCIBLE CONDITION: software, firmware, calibration, hardware, network, environment, data, timing) Tj ET
+0.650 0.730 0.820 rg 54 435 504 38 re S
+0.650 0.730 0.820 RG 0.60 w 306 435 m 306 473 l S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 459.0 Td (LIKELY VIOLATED INVARIANT) Tj ET
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 314.0 459.0 Td (COMPETING HYPOTHESIS) Tj ET
+0.650 0.730 0.820 rg 54 382 504 48 re S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 416.0 Td (NEXT DISCRIMINATING EXPERIMENT: change one meaningful condition; pre-state expected evidence) Tj ET
+0.650 0.730 0.820 rg 54 339 504 38 re S
+0.650 0.730 0.820 RG 0.60 w 306 339 m 306 377 l S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 363.0 Td (TECHNICAL AUTHORITY) Tj ET
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 314.0 363.0 Td (INTEGRATION OWNERSHIP) Tj ET
+0.650 0.730 0.820 rg 54 286 504 48 re S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 320.0 Td (REPAIR AND ADJACENT-RISK REVIEW) Tj ET
+0.650 0.730 0.820 rg 54 233 504 48 re S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 267.0 Td (RELEASE EVIDENCE: before/after reproduction, targeted test, system validation, configuration identity, approval) Tj ET
+0.650 0.730 0.820 rg 54 190 504 38 re S
+0.650 0.730 0.820 RG 0.60 w 306 190 m 306 228 l S
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 62.0 214.0 Td (CLOSURE DECISION / OWNER / DATE) Tj ET
+BT /F2 7.4 Tf 0.000 0.360 0.950 rg 314.0 214.0 Td (LEARNING TO RETAIN) Tj ET
+BT /F2 9.5 Tf 0.035 0.090 0.180 rg 54.0 185.0 Td (CLOSURE CHECKS) Tj ET
+BT /F2 8.3 Tf 0.080 0.110 0.160 rg 54.0 169.0 Td ([ ] Find the fracture) Tj ET
+BT /F2 8.3 Tf 0.080 0.110 0.160 rg 54.0 155.0 Td ([ ] Establish the invariant) Tj ET
+BT /F2 8.3 Tf 0.080 0.110 0.160 rg 54.0 141.0 Td ([ ] Restore the coupling) Tj ET
+BT /F2 8.3 Tf 0.080 0.110 0.160 rg 54.0 127.0 Td ([ ] Make recurrence harder) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000016 00000 n 
+0000000065 00000 n 
+0000000122 00000 n 
+0000000192 00000 n 
+0000000267 00000 n 
+0000000403 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3824
+%%EOF
