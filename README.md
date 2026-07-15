@@ -11,16 +11,16 @@ The campaign argues that integration is not the phase after engineering. It is t
 ## Public artifacts
 
 - `index.html` - direct, self-contained candidate vision with the interactive System Coherence Frame
-- `resume.html` - role-aligned resume with an exact two-page committed PDF
-- `cover-letter.html` - cover letter with an exact one-page committed PDF
-- `interview-brief.html` - interview thesis brief with an exact four-page committed PDF
+- `resume.html` - direct role-aligned resume with an exact two-page committed PDF
+- `cover-letter.html` - direct cover letter with an exact one-page committed PDF
+- `interview-brief.html` - direct interview thesis brief with an exact four-page committed PDF
 - `90-day-plan.html` - entry plan with an exact two-page committed PDF
 - `integration-closure-record.html` - printable operating worksheet with an exact one-page committed PDF
 - `docs/` - direct PDF versions of every printable artifact
-- `payload/` - compressed source bundle retained for the document routes and campaign record
-- `loader.js` - browser-side source assembler used by the document routes
+- `payload/` - compressed source bundle retained for the supporting routes and campaign record
+- `loader.js` - browser-side source assembler retained for supporting routes that still use the original source bundle
 
-The redesigned homepage is committed directly as readable HTML, CSS, and JavaScript. It no longer depends on the source assembler. The remaining document routes use the existing browser-side assembler, while all printable PDFs remain standalone files.
+The homepage, resume, cover letter, and interview brief are direct production pages on `main`. Candidate-facing materials emphasize demonstrated technical value, relevant operating mechanisms, and role-specific contribution rather than defensive qualification language. The printable PDFs are standalone files.
 
 ## Interaction
 
