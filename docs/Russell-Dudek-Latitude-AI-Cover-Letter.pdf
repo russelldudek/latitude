@@ -1,0 +1,75 @@
+%PDF-1.4
+%ASCII
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4574 >>
+stream
+0.035 0.090 0.180 rg 0 720 612 72 re f
+0.000 0.360 0.950 rg 0 712 612 8 re f
+BT /F2 22.0 Tf 1.000 1.000 1.000 rg 54.0 759.0 Td (RUSSELL DUDEK) Tj ET
+BT /F1 9.0 Tf 0.750 0.870 1.000 rg 54.0 738.0 Td (Candidate letter | Senior Autonomy Integration Engineer) Tj ET
+BT /F2 10.0 Tf 1.000 1.000 1.000 rg 470.0 759.0 Td (LATITUDE AI) Tj ET
+BT /F1 8.0 Tf 0.750 0.870 1.000 rg 470.0 738.0 Td (COVER LETTER) Tj ET
+0.730 0.800 0.880 RG 0.60 w 54 42 m 558 42 l S
+BT /F1 7.5 Tf 0.350 0.390 0.450 rg 54.0 27.0 Td (Independent candidate materials by Russell Dudek) Tj ET
+BT /F2 7.5 Tf 0.350 0.390 0.450 rg 520.0 27.0 Td (1 / 1) Tj ET
+BT /F1 9.0 Tf 0.350 0.390 0.450 rg 54.0 685.0 Td (July 15, 2026) Tj ET
+BT /F2 10.0 Tf 0.035 0.090 0.180 rg 54.0 663.0 Td (Latitude AI Hiring Team) Tj ET
+BT /F1 9.0 Tf 0.350 0.390 0.450 rg 54.0 649.0 Td (2545 Railroad Street, Suite 400 | Pittsburgh, PA 15222) Tj ET
+BT /F2 12.0 Tf 0.000 0.360 0.950 rg 54.0 621.0 Td (RE: Senior Autonomy Integration Engineer) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 593.0 Td (Latitude is building a vertically integrated autonomy platform toward a 2027 vehicle launch. The) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 580.0 Td (work described in this role is not simply debugging or configuration management. It is the) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 567.0 Td (discipline of making specialized teams, hardware, software, evidence, and ownership behave as one) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 554.0 Td (launchable system. That is why I am applying.) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 531.0 Td (My career has repeatedly placed me at the seams of complex systems: software-enabled robotics and) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 518.0 Td (machine vision at Vape-Jet; regulated autonomous drone operations at ZeusVu; high-reliability) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 505.0 Td (electronics, root cause, and quality systems at Compunetics; and 24/7 launch mechanisms at Amazon.) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 492.0 Td (Across those environments, I have been most useful when the visible symptom crossed formal ownership) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 479.0 Td (boundaries and the organization needed a bounded reproduction, a clear operating decision, and a) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 466.0 Td (durable mechanism rather than a temporary workaround.) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 443.0 Td (I have made that reasoning visible in an independent candidate vision at) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 430.0 Td (russelldudek.github.io/latitude/. The System Coherence Frame treats platform configuration, compute) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 417.0 Td (and network, sensing and actuation, autonomy software, validation evidence, and ownership as coupled) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 404.0 Td (layers. The accompanying closure record, interview brief, and 90-day plan show how I would enter the) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 391.0 Td (work: learn Latitude specific failure language, own bounded integration problems, and convert) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 378.0 Td (repeated friction into stronger tests, configuration lineage, and handoffs.) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 355.0 Td (The strongest objection is legitimate: I do not claim verified senior production C++ experience or) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 342.0 Td (prior ownership of an automotive autonomy stack. I would rather expose that gap than decorate it. My) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 329.0 Td (proposal is a realistic, bounded technical case during the interview process. I will make) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 316.0 Td (assumptions explicit, reproduce the failure, connect evidence across domains, respect technical) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 303.0 Td (authority, and show how I learn in code and systems.) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 280.0 Td (Latitude needs engineers who can move from architecture to the weeds without losing the whole) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 267.0 Td (system. I would welcome the opportunity to demonstrate that operating range in Pittsburgh.) Tj ET
+BT /F1 9.5 Tf 0.080 0.110 0.160 rg 54.0 244.0 Td (Carpe diem,) Tj ET
+BT /F2 13.0 Tf 0.035 0.090 0.180 rg 54.0 224.0 Td (Russell Dudek) Tj ET
+BT /F1 8.5 Tf 0.350 0.390 0.450 rg 54.0 210.0 Td (412.287.8640 | russelldudek@gmail.com) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000016 00000 n 
+0000000065 00000 n 
+0000000122 00000 n 
+0000000192 00000 n 
+0000000267 00000 n 
+0000000403 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5028
+%%EOF
