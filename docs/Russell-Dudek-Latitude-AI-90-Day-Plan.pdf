@@ -1,0 +1,105 @@
+%PDF-1.4
+%ASCII
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2584 >>
+stream
+0.035 0.090 0.180 rg 0 720 612 72 re f
+0.000 0.360 0.950 rg 0 712 612 8 re f
+BT /F2 22.0 Tf 1.000 1.000 1.000 rg 54.0 759.0 Td (DAYS 0-30) Tj ET
+BT /F1 9.0 Tf 0.750 0.870 1.000 rg 54.0 738.0 Td (Read the system in motion.) Tj ET
+BT /F2 10.0 Tf 1.000 1.000 1.000 rg 470.0 759.0 Td (LATITUDE AI) Tj ET
+BT /F1 8.0 Tf 0.750 0.870 1.000 rg 470.0 738.0 Td (90-DAY PLAN 1/2) Tj ET
+0.730 0.800 0.880 RG 0.60 w 54 42 m 558 42 l S
+BT /F1 7.5 Tf 0.350 0.390 0.450 rg 54.0 27.0 Td (Independent candidate materials by Russell Dudek) Tj ET
+BT /F2 7.5 Tf 0.350 0.390 0.450 rg 520.0 27.0 Td (1 / 2) Tj ET
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 684.0 Td (MAP THE INTEGRATION SYSTEM) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 668.0 Td (Learn platform, configuration, build, test, release, and blocker flows. Identify where software,) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 655.0 Td (firmware, calibration, hardware, network, environment, and ownership identities are recorded.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 632 m 558 632 l S
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 625.0 Td (SHADOW LIVE DEBUGGING) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 609.0 Td (Observe how experienced engineers move among architecture, logs, code, hardware state, test) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 596.0 Td (infrastructure, and cross-team communication.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 573 m 558 573 l S
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 566.0 Td (LEARN EVIDENCE STANDARDS) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 550.0 Td (Understand what constitutes a reproducible failure, a credible hypothesis, a sufficient regression,) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 537.0 Td (and an acceptable closure at Latitude.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 514 m 558 514 l S
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 507.0 Td (CONTRIBUTE BOUNDED WORK) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 491.0 Td (Take small, reviewable Python, test, tooling, configuration, or documentation tasks that expose) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 478.0 Td (technical judgment and accelerate learning.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 455 m 558 455 l S
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 448.0 Td (PERSONAL MECHANISM) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 432.0 Td (Use a lightweight closure record to capture observed behavior, invariant, reproduction, authority,) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 419.0 Td (change, release evidence, and learning without creating ceremony.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 396 m 558 396 l S
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2718 >>
+stream
+0.035 0.090 0.180 rg 0 720 612 72 re f
+0.000 0.360 0.950 rg 0 712 612 8 re f
+BT /F2 22.0 Tf 1.000 1.000 1.000 rg 54.0 759.0 Td (DAYS 31-90) Tj ET
+BT /F1 9.0 Tf 0.750 0.870 1.000 rg 54.0 738.0 Td (Own closure, then strengthen the mechanism.) Tj ET
+BT /F2 10.0 Tf 1.000 1.000 1.000 rg 470.0 759.0 Td (LATITUDE AI) Tj ET
+BT /F1 8.0 Tf 0.750 0.870 1.000 rg 470.0 738.0 Td (90-DAY PLAN 2/2) Tj ET
+0.730 0.800 0.880 RG 0.60 w 54 42 m 558 42 l S
+BT /F1 7.5 Tf 0.350 0.390 0.450 rg 54.0 27.0 Td (Independent candidate materials by Russell Dudek) Tj ET
+BT /F2 7.5 Tf 0.350 0.390 0.450 rg 520.0 27.0 Td (2 / 2) Tj ET
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 684.0 Td (DAYS 31-60: BOUNDED CLOSURE) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 668.0 Td (Own a defined issue set from intake through reproduction, repair coordination, validation, and) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 655.0 Td (closure communication. Improve environment identity and blocker precision. Add targeted tests or) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 642.0 Td (checks where evidence supports them.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 619 m 558 619 l S
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 612.0 Td (DAYS 61-90: INTEGRATION SLICE) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 596.0 Td (Lead one platform or feature integration slice across configuration, build, system behavior,) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 583.0 Td (partner alignment, validation, and release evidence.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 560 m 558 560 l S
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 553.0 Td (REPEATED BOUNDARY FAILURES) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 537.0 Td (Review closures for recurring violated invariants, configuration gaps, ownership ambiguity,) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 524.0 Td (observability weaknesses, and testing blind spots.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 501 m 558 501 l S
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 494.0 Td (ONE HIGH-LEVERAGE IMPROVEMENT) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 478.0 Td (Implement or sponsor a bounded compatibility check, configuration diff, targeted regression test,) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 465.0 Td (observability improvement, or clearer evidence contract.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 442 m 558 442 l S
+BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 435.0 Td (90-DAY REVIEW) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 419.0 Td (Assess trust, technical contribution, blocker flow, traceable evidence, retained learning, and the) Tj ET
+BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 406.0 Td (next area where deeper ownership creates value.) Tj ET
+0.860 0.900 0.950 RG 0.50 w 54 383 m 558 383 l S
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000016 00000 n 
+0000000065 00000 n 
+0000000128 00000 n 
+0000000198 00000 n 
+0000000273 00000 n 
+0000000409 00000 n 
+0000003044 00000 n 
+0000003180 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+5949
+%%EOF
