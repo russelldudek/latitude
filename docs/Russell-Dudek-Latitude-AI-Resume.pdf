@@ -1,152 +1,93 @@
 %PDF-1.4
-%ASCII
+%ASCII ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImaeB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+<<
+/Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 6 0 obj
-<< /Length 5112 >>
-stream
-0.035 0.090 0.180 rg 0 720 612 72 re f
-0.000 0.360 0.950 rg 0 712 612 8 re f
-BT /F2 22.0 Tf 1.000 1.000 1.000 rg 54.0 759.0 Td (RUSSELL DUDEK) Tj ET
-BT /F1 9.0 Tf 0.750 0.870 1.000 rg 54.0 738.0 Td (Systems Integration | Robotics Operations | Reliability) Tj ET
-BT /F2 10.0 Tf 1.000 1.000 1.000 rg 470.0 759.0 Td (LATITUDE AI) Tj ET
-BT /F1 8.0 Tf 0.750 0.870 1.000 rg 470.0 738.0 Td (RESUME 1/2) Tj ET
-0.730 0.800 0.880 RG 0.60 w 54 42 m 558 42 l S
-BT /F1 7.5 Tf 0.350 0.390 0.450 rg 54.0 27.0 Td (Independent candidate materials by Russell Dudek) Tj ET
-BT /F2 7.5 Tf 0.350 0.390 0.450 rg 520.0 27.0 Td (1 / 2) Tj ET
-BT /F2 13.0 Tf 0.035 0.090 0.180 rg 54.0 690.0 Td (SENIOR AUTONOMY INTEGRATION ENGINEER - ROLE-ALIGNED RESUME) Tj ET
-BT /F1 8.2 Tf 0.350 0.390 0.450 rg 54.0 668.0 Td (Pittsburgh, PA | 412.287.8640 | russelldudek@gmail.com | linkedin.com/in/russelldudek) Tj ET
-BT /F2 9.3 Tf 0.080 0.110 0.160 rg 54.0 644.0 Td (Operator-technologist who makes complex systems legible and closes responsibility gaps across) Tj ET
-BT /F2 9.3 Tf 0.080 0.110 0.160 rg 54.0 632.0 Td (hardware, software, operations, quality, and stakeholders. Strongest when the visible symptom) Tj ET
-BT /F2 9.3 Tf 0.080 0.110 0.160 rg 54.0 620.0 Td (crosses formal ownership boundaries and the durable answer requires reproduction, evidence,) Tj ET
-BT /F2 9.3 Tf 0.080 0.110 0.160 rg 54.0 608.0 Td (coordinated repair, and a stronger system mechanism.) Tj ET
-BT /F2 11.5 Tf 0.000 0.360 0.950 rg 54.0 588.0 Td (CORE CAPABILITIES) Tj ET
-0.550 0.750 0.970 RG 1.00 w 54 582 m 558 582 l S
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 566.0 Td (Cross-domain debugging | root cause and reproduction | robotics operations | configuration traceability) Tj ET
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 554.0 Td (| regression and quality systems | Python and TensorFlow | technical stakeholder alignment | Lean,) Tj ET
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 542.0 Td (Gemba, and standard work) Tj ET
-BT /F2 11.5 Tf 0.000 0.360 0.950 rg 54.0 522.0 Td (MOST RELEVANT EXPERIENCE) Tj ET
-0.550 0.750 0.970 RG 1.00 w 54 516 m 558 516 l S
-BT /F2 10.2 Tf 0.035 0.090 0.180 rg 54.0 500.0 Td (VAPE-JET) Tj ET
-BT /F2 8.4 Tf 0.350 0.390 0.450 rg 470.0 500.0 Td (2025-Present) Tj ET
-BT /F2 8.8 Tf 0.000 0.360 0.950 rg 54.0 487.0 Td (Director of Operations) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 474.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 474.0 Td (Leads AI-first operating transformation across production, quality, support, engineering) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 463.0 Td (issue flow, ERP/Odoo, Jira, telemetry, and software-enabled robotics workflows.) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 448.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 448.0 Td (Connects factory, field, customer, and machine-fleet signals from approximately 1,000) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 437.0 Td (fielded robots into prioritized work, earlier risk detection, cleaner handoffs, standard) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 426.0 Td (work, and accountability.) Tj ET
-BT /F2 10.2 Tf 0.035 0.090 0.180 rg 54.0 408.0 Td (ZEUSVU) Tj ET
-BT /F2 8.4 Tf 0.350 0.390 0.450 rg 470.0 408.0 Td (2018-2022) Tj ET
-BT /F2 8.8 Tf 0.000 0.360 0.950 rg 54.0 395.0 Td (Chief Pilot, Autonomous Systems and Aerial Data Operations) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 382.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 382.0 Td (Led regulated drone operations across medical, energy, logistics, real-estate, and) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 371.0 Td (restricted-airspace contexts with a 100% safety record and no FAA incidents.) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 356.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 356.0 Td (Developed TensorFlow-based concepts for aerial inventory and computer-vision field) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 345.0 Td (intelligence; connected sensing, mapping, GPS, risk, users, and operating evidence.) Tj ET
-BT /F2 10.2 Tf 0.035 0.090 0.180 rg 54.0 327.0 Td (COMPUNETICS) Tj ET
-BT /F2 8.4 Tf 0.350 0.390 0.450 rg 470.0 327.0 Td (2000-2013) Tj ET
-BT /F2 8.8 Tf 0.000 0.360 0.950 rg 54.0 314.0 Td (Director of Operations and Engineering Management) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 301.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 301.0 Td (Led engineering, manufacturing, quality, and complex technical programs in advanced) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 290.0 Td (electronics and high-reliability environments; built root-cause practices, process) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 279.0 Td (controls, and quality systems.) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 264.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 264.0 Td (Collaborated with high-consequence customers and partners including DoD, CERN, Intel, and) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 253.0 Td (AMD; published industry articles, delivered technical talks, and participated in the) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 242.0 Td (HyperTransport Consortium.) Tj ET
-endstream
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
 endobj
 7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+<<
+/Author (Russell Dudek) /CreationDate (D:20260715211320+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260715211320+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Russell Dudek Latitude AI Resume) /Trapped /False
+>>
 endobj
 8 0 obj
-<< /Length 5269 >>
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3364
+>>
 stream
-0.035 0.090 0.180 rg 0 720 612 72 re f
-0.000 0.360 0.950 rg 0 712 612 8 re f
-BT /F2 22.0 Tf 1.000 1.000 1.000 rg 54.0 759.0 Td (RUSSELL DUDEK) Tj ET
-BT /F1 9.0 Tf 0.750 0.870 1.000 rg 54.0 738.0 Td (Systems Integration | Robotics Operations | Reliability) Tj ET
-BT /F2 10.0 Tf 1.000 1.000 1.000 rg 470.0 759.0 Td (LATITUDE AI) Tj ET
-BT /F1 8.0 Tf 0.750 0.870 1.000 rg 470.0 738.0 Td (RESUME 2/2) Tj ET
-0.730 0.800 0.880 RG 0.60 w 54 42 m 558 42 l S
-BT /F1 7.5 Tf 0.350 0.390 0.450 rg 54.0 27.0 Td (Independent candidate materials by Russell Dudek) Tj ET
-BT /F2 7.5 Tf 0.350 0.390 0.450 rg 520.0 27.0 Td (2 / 2) Tj ET
-BT /F2 11.5 Tf 0.000 0.360 0.950 rg 54.0 690.0 Td (ADDITIONAL OPERATING EXPERIENCE) Tj ET
-0.550 0.750 0.970 RG 1.00 w 54 684 m 558 684 l S
-BT /F2 10.2 Tf 0.035 0.090 0.180 rg 54.0 668.0 Td (AMAZON) Tj ET
-BT /F2 8.4 Tf 0.350 0.390 0.450 rg 470.0 668.0 Td (2014-2018) Tj ET
-BT /F2 8.8 Tf 0.000 0.360 0.950 rg 54.0 655.0 Td (Operations Management / Site Leader) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 642.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 642.0 Td (Led launch and execution for Amazon Prime Pittsburgh in a 24/7 customer-backward) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 631.0 Td (environment supporting approximately five million second-day orders annually.) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 616.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 616.0 Td (Built throughput visibility, escalation paths, standard work, and operating routines across) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 605.0 Td (safety, quality, customer experience, and team engagement; contributed to Prime Air) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 594.0 Td (research and Amazon Flex geolocation concepts.) Tj ET
-BT /F2 10.2 Tf 0.035 0.090 0.180 rg 54.0 576.0 Td (DUDEWORTH) Tj ET
-BT /F2 8.4 Tf 0.350 0.390 0.450 rg 470.0 576.0 Td (2017-Present) Tj ET
-BT /F2 8.8 Tf 0.000 0.360 0.950 rg 54.0 563.0 Td (Founder / AI and Automation Advisor) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 550.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 550.0 Td (Designs agentic workflow patterns using structured context, retrieval, AI agents, human) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 539.0 Td (judgment, escalation, decision records, evaluation, and governance rails.) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 524.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 524.0 Td (Advises on AI-enabled operations, logistics technology, warehouse automation, AMRs, ASRS,) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 513.0 Td (cobots, transportation systems, and workflow design.) Tj ET
-BT /F2 10.2 Tf 0.035 0.090 0.180 rg 54.0 495.0 Td (CARDINAL BUILDING PRODUCTS) Tj ET
-BT /F2 8.4 Tf 0.350 0.390 0.450 rg 470.0 495.0 Td (2021-2023) Tj ET
-BT /F2 8.8 Tf 0.000 0.360 0.950 rg 54.0 482.0 Td (Regional Director) Tj ET
-BT /F2 9.2 Tf 0.000 0.360 0.950 rg 58.0 469.0 Td (-) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 469.0 Td (Built the company first remote regional operation and modernized distributed customer, CRM,) Tj ET
-BT /F1 8.9 Tf 0.080 0.110 0.160 rg 70.0 458.0 Td (commercial, fulfillment, logistics, digital marketing, SEO, and online-buying workflows.) Tj ET
-BT /F2 11.5 Tf 0.000 0.360 0.950 rg 54.0 440.0 Td (TECHNICAL TOOLKIT AND OPERATING METHODS) Tj ET
-0.550 0.750 0.970 RG 1.00 w 54 434 m 558 434 l S
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 418.0 Td (Python | TensorFlow | SQL | JavaScript | GIS and mapping | agentic AI | LLM workflows | RAG patterns) Tj ET
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 406.0 Td (| human-in-the-loop | evaluation and governance | ERP/Odoo | Jira | Confluence | HubSpot | Tableau) Tj ET
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 386.0 Td (Root cause | failure reproduction | quality systems | process controls | standard work | Lean |) Tj ET
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 374.0 Td (Gemba | Six Sigma | escalation design | decision records | cross-functional alignment | training and) Tj ET
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 362.0 Td (adoption) Tj ET
-BT /F2 11.5 Tf 0.000 0.360 0.950 rg 54.0 340.0 Td (EDUCATION AND TECHNICAL LEADERSHIP) Tj ET
-0.550 0.750 0.970 RG 1.00 w 54 334 m 558 334 l S
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 318.0 Td (University of Pittsburgh - Bachelor of Science, Chemistry; minors in Mathematics and Genetics.) Tj ET
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 306.0 Td (Former Chair, IEEE CMPT and EDS Pittsburgh Chapter. Industry publishing and technical speaking in) Tj ET
-BT /F1 9.0 Tf 0.080 0.110 0.160 rg 54.0 294.0 Td (advanced electronics and high-speed computing.) Tj ET
-0.930 0.960 0.990 rg 54 204 504 62 re f
-BT /F2 9.5 Tf 0.000 0.360 0.950 rg 68.0 250.0 Td (HONEST FIT STATEMENT) Tj ET
-BT /F1 8.8 Tf 0.080 0.110 0.160 rg 68.0 233.0 Td (No verified senior production C++ tenure or prior automotive autonomy-stack title is claimed.) Tj ET
-BT /F1 8.8 Tf 0.080 0.110 0.160 rg 68.0 222.0 Td (The case is based on demonstrated cross-domain debugging, reliability, configuration-minded) Tj ET
-BT /F1 8.8 Tf 0.080 0.110 0.160 rg 68.0 211.0 Td (operations, robotics, autonomous systems, Python, and the ability to learn deeply through) Tj ET
-BT /F1 8.8 Tf 0.080 0.110 0.160 rg 68.0 200.0 Td (bounded technical work.) Tj ET
-endstream
+GauaUgNA)%.&q/)-i+9C1;\Df&]L\<SF^c`Y<"aO/eSNLE5pSj,9G.[tg@<[Ar14*YM7uFKQ8U0n,$l4J^77CC%%**j_#Bs+N4iAuj*(M36FL"$+S$_bprL_rYJ.Zd7JuE0<K0Mt8aK.rQJf;5nUcF._,e=`o)(2$idc<'3fPK]%45d+a7PZ4*3rs]"ijs/"QOgdFI8k1'X9K_H-):&.X#pa)C*CfS[Q)=rWc[*aVMY$G=Yb$6<5Z1At]n#1N*mRdq$>.fUkn:aK<*\+dmRHlA$obIG,UjR/\mJS:-j4o?W?$pK&`#o8Cr]5O@[pc,J]?m@7HeSokk4FS5"\q8o,tO6;Ec#24;8]1X\LH]FI0`R,*0oU?>`B\Y$tI<O)Er?6kIA^d#XX,HY,?(PHS-j[M*MO0OJa/SKcP*8W>=]AXl?D]4--tRfYE`plUZ)j"A&)K8%K=.K(Rj<1Ei@A4XRru@8UcL,R,9'lL*pu(.]8fcRSk^/NEV9;GG'JoFklpqu)AS1ZaGZ8]]O^VH%J+F@hUaiJ^!LNmdAb/]c<80Q>ir[2lp_nmC@^*M;:Gu4UAufSh6"mo?3o=_.i&V$q9A%fpJ*QMHh8O9M3'd.oBk`P[[C`/YfU;52mAc9RYt?!btct^eZ-2jkB/!VNNHV&B6>A5+Z(.E.ohJs8L]R$jQoL+[M&<KI&pci+[]V8@MF*lL/g$;;gSpAI<$-'^"<T=VY%A1ft(4\.\pe2m96cP?OOa_J=BGaA`h8pU,&eaKj9pq_)EnqQ,+\KR#S,*>for&GHB^A_g&&D0l5*WI`o,90r%cDGGOS_0SLCL0.j)G7O5.oqN5Krnlh<hd)KS-*#^K@JYC"`#`te+">_!'S#tnZW&[i#R8uu2aNRa4/"WkOE#1kdBNqi7!^+IapSc[8],S#_`&_(dP'=Ok.O@]L2-SNAMd3u3euCo?LtX9UY#Mka'D0s7\>PU,&A#![<cN7.MmhC.\<:upA_m@OJo3qdC$bOr(`fNXjDCHiYt'qaoTI8WZt^bc;aem!oeo:"BM7CoF'!2si.eX"*3rJRi[%O42(Z8')n&^_ST>XM1C7Tr**RK61q*`[/\\Si>A%i\b1j#&`Y(3c-VMohPQi75_r2IcFf.)=\BQM'SM=9$JE!snQ+&EF-W:i2p[/2+0L)/*?J5Y^bi4C:9.8fiMf=_hI2RsA$H1n^.`g86FEPg:nob!Spbr,h5r%^A9N[Y^0j^)KJJ\%\OE`2\SpFH.d9H1\3*-+QRcS#3(.e>^=\An%5r:a'#$9PE[#Q%cp/s7>eC*#Y%<9oGj"BemNsFPH`'O>U9L76CSr!]OrCDhLItu`??saaT]Z:<fmWuCr(C^UJUVeU__@EpG"i8#U?Vk<r)%^M4m#4m!X$ke1MhZlKnPO6jg3Z[Kq1qun8Bfbhdaq9nn,`Rg":(@q;LgW'a,FVZ0M;I?O!75X*:Qojo[kso7CCZZHelG\d2tQ]IH"raTb%+2\*R7A/!tu(-1mcj*5!(7&NPtk]#2A/aiq%C]'0^62h-/eU>oD7@/'ajj&R(FPOCj%+E7YrJ@<KO"DI/J/b<8lP!WU*LI180>q">Pkie3s4[kbT2nX#4N8f<oK\-H[h,EEYBMT\h_;d3d4Ouad8A[/86'b9;E=$agc;lSHJ&.%/GM8OQoHgbn[I3L2,K:hD2_mH_mm\mCnkt644crHomL9%J*a\t_^BGtkRiH1V;c';!UmZOdMs&:;1QDj\*MrR<;hGKq3IL,2QG_#s]V3T;!SMLGQ>+!p)M,S3R&G5:Z#n?Y5KCp%$ua>)ZdsXo&q+Q%$oJD(fkr]?2dh3>AKcoYQkjCoqCuHK<eKBL>TU/VX39O]>cA>4+>k6X=lHROEkYB^1,!or4^nk`XqH`^3'ZZO;'-7p8jZu"C`"Q6s#sUNG-.I:D^=NoeWYE'1R_$FgdCJ65=e8'J,o3''Gf?U8r>C])0L$sk>`s!_[PfP0Cb&,Fls]'jf=',7!Zh)Omi1<N.0YpPX`K3BIm^>s)RgbF1<hK0mIE85r@!/FcO^=PWPSJNW9mAeS59&k1m&)$FS2B."`b%(Kjsl>&KsDBH.r2QhK,jSTs[5mJ8IaAQWiV%;'V=MmHI=@-i5%)jIsj*OIC]j0JWOVNu9?bUXk-V%$)Om_-Wa=B!$%:"K\im:^VZYL'//SO%#K3.rY_j1ZQ"9P<hRFKaA\.5a.^iHQ'Umaf_#nUHJJr8.E<'G%'N5^E,L+T1V1MA<af-"59EDA"XIEt/RQL_;]BPW/O%0HYkF7>HWnHn`:UJTkSM<V>TRM4DXF7CphLYc+&UfYN7W]Gq;)I3V4a.n$&R%._DOl-0G"OW@)NY6b)2frP4mJa`Vu)86a),NPEt>0s=X@dd&e[Ws%^N0:=uqZ;4%Zh*<H)Wk#SL_?!j[Pr)-e.6/)-t4Pf<B'g>>V#+ZW!pW4k#n_<[#NG8W,)j&"_,>U;5.bJ@!PIe$1`'PUn]Gk'gUOq]YC!*$6\<uLnP4.jrqt@0X]MAC#F]#[[?=!N\4L?2!(Hr2ki7O)@/<'X0Jd9q;'>^c'gR3\%"@g6`bE=1:lB-[HKes5NZI0_@![kjLHF8=5*Fm/9,2pe4mA")u&&6M4a*/-IIiir<rs[9-I:Cb.\sRUV76Y%44<#$<p#m%4^`m?LpKGg$V'6T9E['d[gqb(X0elIbn?Eo9WY6BoJ\kW)dc?Ali$&UVEG8VD;Ik?6P5R9h,;[I.&h1K16P1"6=oFJJB3c)F3i^Bei-FX>DO9W>MR:mRFO'(\Km\2k!TQlt4N9m>"'n+ktf\\)H]3[#F:sJ4:.AeLaYU[QAom;tRRTg>XZ3;eWUl+_Q2oROq`H2Kjm?mUhe)9jB.]O3&lqD-NJqhgSN2DH]aF6R9&o%u0E]-?+<k#BD^aFK\N,I&XIV:0V//H\ld#0<P2Sd@790reB`n#5JOiXDDt#VGhUu@W0Sq5*,'.V:,$7T.#ZQALYl-:qb!pLTk%$IO3[c\UbB$C\idPf4J*eqA!Qg2c`@]^H&N*mpPPe6,$p_k]fp:)qjW_k:i;`*qT`._e;Q&IKhd(<;`q<%)`)Ur&,a(T)K"#*anLJHeC-Cb=:-0_6,ZNK>_2;E5"dAikBM3]^:LTOgNCa5\jMZ_:QG>-t#9&p%^>>hX-U/@/u+3'1dCh^T1Zap/r]Xi?7!-aO^/HkB@>f(?m]tJ/TP-md54NftghE)[h*1*n[?C+r3pZYlZfM>"mV#X"[*%DQ\Uc>sH?Lqd^?qn11qa6I4.&KCs+%g<""2YBJehlbWhS?MgPgbH]Mh^HH0pZa+BRQ9Z:rI18N<<]BFSO/qVQpmanOZtTZp0%=-F]qb-s#Z[n+H`a3Sq`!VTd>Yd80?XoRb5~>endstream
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3472
+>>
+stream
+Gb!;fgJ['&&q05PW4-=c/>9]CI9Ha@DGS&5gRd&ba$M912+T2m8V1Q+O.VW4Me0,^-A('EmLHHIeb*J8WKSc9k2=!iI`E=9B1mFEd:KK$Q7M)%G/0E1CqBQ6`s:D<J%biCUZp,9m8:YCZjS,5NL1Jtp!X0#nV0?n1><\,!["&;5P2gSHC9=Ik5&]Jd#OQGESkWai",2t@)HYo7jGIdfZCcU$B_4PU.WA[5M>UO[f!,h6XrPAaGLGoZ.BEH0\[,5;<0MpFN,OQBP-[ELjV9&3Z]4M*SMFo=T#U0:9PFLp<.LQBg,\FY('kUCjpeU]ptWHf_*Lr^:BoKe'$G*Cj%gCrmk;5m@.BjC>*aEllZ_VR%rKEMhQoY6:XO)*L[LBd#BU"ijR;$c%+VD0PfTm[PpP9-ua.)CJYY\jPT9^bLDPPL'O^%mmJ@@\ic8RBtrUjGgGL^L:/1l\bf\![4F8eXY&(;b"GmshJ%JkDR8Y:k_,]CK.Z5X5%'-VE0,6NLKl'6i@qLRW4bsZi[?M<`c?Rb?>+[teX+POfOW!2SgQ;PV-s&'O=DWY*VZ:O^bB^^1Zn)E]]!YB4Jl0'lZN#4ih5^l0%cm3fj93M_#o%#Q>2I*npYsq,JgmL(cOeQcl6JBbC$K<`\F7U>fChZI!E?/X/?oAG+.lO#X>an4/"nWg+J@GWh]B#1)hoRPpulR5R<1N6l)Vb[oFjiVRAg\-cOrflb3=WTAO'h+'ZS:UW3(=`uR[QnUSu25dTFNfs8.2_rkW[m;6M)T$qW/2L$snQYnC7*IQm_NnYE1KoMhcW3alq_]@.L)XhTb=s*31M`7c)L33s\jELW$]%e9UZWX.1=sCD7hJ2&CT$h2f^4AGf*EkC*'I#2k:)Yke^#o3jW]Ul^SPfTR4&'nT2+\@89#"KJ@5CB8LG4$)nADJ7Q5pl5)3aZ%AJVlhpEEVl!_]l,i8@+&'P<JB]7j7b>aCFeV0OC/PeJYM\`"jpTF<Zhk@l4HCaF<LDe4fl!sWf)X;blhf'6T*SEDUFnjI?>Y/0"Pa9QB['m(PHPqj"RW@Tj&IG>WR*;krd^D."*G.n8N+kJ`_^4o_1R*feQWHqrV?C'50_5]iaCBbu]ij.!?Jlq-2pfc*(^^^Dr*uGC7#h\sMb';3\YEF$_)ZqFER&@sh5Y8mOs(W,rSY.i_YF;AB`t#QoM\D)fXEYHuf=-P($]X[R;)!%BR3cm&S*oh)J>HuiL6OFJ6c>I!i>Slg^pVfC=L^l!5j2sC*g=Qj0`Zg7MP)FVcO4d&3[fm+U(eL5kFs4`!"b_c(:#X@FEhmS8rW.D7E-2cj1oUJra.\TS86%N:YAksdtHNC7]QZ@G3Fn\DipdW>574Z0,S[]f!$t(HQ`t$j`g<'(ccd3Nm;K%[K@XD+?tsc'Ds.):;AZl/^GO=;6Z>87>X"K'NC96(Z'GP$._e$hfJUkfTuqb<P\'W*jG83'mY.\Mc^TfXK$@ge$N_A/ponm'"S_9B3a>N&tUdbMs9o+h`GGT.YjZ3ent(Nma?j,X7Qr-iS0dlRjSKoJQOD$\RAEdh[aB.6jQhhbo4+!!^,$lj`sUZ#EQl6>J@gpInX"qo)N["%?E]*"Rf+1muD:@Kau&TO!S(u`4cl)$nIT8n)PX;oCnHI?6.Q\+Pt^-$c%NR;/TA(A#'5;CX0&q>s_GK9pdl5h2h9i9S$14&NcmYE[c#WfoL4t5I&1o9DndWht':<jgK>#F)$2n/S`SlgFXTC`$UK)Jp)HLQ^:c82V[nn:Hn01fG"-Ug<,Sh"g5:3V7+"%dnWFsdo#<eS_orD-VDe7Uuo9ak:0h)GLil[=1=*i.VT\JO7-at,^FWWPb/j)ISX)/$7gomWM_-;&]tWI':uq?F[;S0J#PDamT)".[KH16P<^LLW`;ZI/P;Z:R:3lWS-@5c7M4<*VcN@=Ib#BbT6>Og&Ql[-(XM.m>+]S1'\9;,c/QN(=P>g^g(__P>=-.E`[A[2ahW*ArBV,T,lU-D"iMBF>*WMdeaP,gLLML;"r@=;nq4aU*P%t#:(T8u3:P/b3mG*gNT\snIUm]\'cF@BFNQ.XIW_tRJ5%[4Cf_?^k8V,=9or"+hs`)Z)L9(&M<dV8fmY%^n%=<kl1EdaO'r=)2=fY+OX`?o.t*\.!dU]+kO9;mbTo[kQf=]>\WLo?W+s:#=0,ugEdG\II#o;fRl\TB,1:6FX#F7nJN?tY`K1bW\.Y6t#t#Jq-KggQVTsU9bH".HV*pTC^JpJI<E/dh&N&tXo5qS>NTU$oQXJU#GY,%6L3[6@fXXP<V?`#]MDi"n@>[X9B[#%rC*tmoEE[pK!%Vjm%:-34*b)pn)^L2l"bt?6@h_6r)GD_7^gjTd;-&MfL!@4!%2m<?N%)K8"Y\OVV:MW]qDKhbqGm<F?C,OO'[:Pamp(d(:.+C:?SAWDBbuPgE`s/O3rh?(]405/\84#Xoqn%kQ5c7Le]B)l:_K[n\CcrA\^70XadR/;jEg?A!qptXcdD5a,41#?7m@n,021"rf$X_e3B/IGqn_R1IW-tM$L&"S([WFFgU7tDcbb(4m>[KE0&CK9clTqHk>*l4-Tq$2._`3r5ZIK<a;=2_hAWSaJm5LQpqRnl?\(*R2FhrJ<+=T5Pc],jLm(6&`+G&=lk!6hW!):`eT#=HUncl(0rR^0X%ZLsj+[TN>5-[7dZ90'BPP03o1k_b(mWf09#5($@%V<P9tAX_X]=YdgiQA70E;_a&HS]]C>Kr4Udu.MTbJr?*YIp^5Xm;N7j("=ou8Ji!ZUGG\;)g&aXkPFdFbWc]6A7T%2P5.G`uX]BNJ05]\'DIIXX]%[qoh!%-"a^hW>f'eK<W]K?<^?F[$*ji!FOGHWRkg%Mc2E2/#q%[Q*&.Be&In)"c#(cP!<;5s'b<l\l]<N+iPFC\c"Um8Kmms-tllmCF'g#P#h?bO1M'WZO*$*;+*]G5VoWXVV-MUV8\n?0HlZ=(e:6P9#WC?(_,(A34sS<\t&Tq;2+Q!55+>[cc'XH^nu(c1MQho%nb;imof"M_3a,/fZr),J1,7R^;R*ZCELr]pOrc3PYQ)3M2l@CAoX>Aq'\uFu_](".4.O_#FG2RE0Mor]b.4j3>H6pp3X>d_)ub[mN5ce?h>HZ,o0CPp*t#S@!16Zg_hGL.&,D']$q?.ZYI`gh,%K[u&]+OWiOd+]#4G>hmN@e-1`M]\FWi^qOEh/g*'nWp*N=M2"@!9"GkhLWd9of"kk4gQuGA1GffWH-hAS3gaA%K,Sa*91Uq@'Ke0Oj!nt(Rb]:=o[<oC=,IX4q@H%4ifknofo!qX\*5-L($1&ZmHYP-FhEiu5f=1c[_Q1@P2HcL>FM>lNH0Ta)h'H**j@kt,")gg5%CUJ]ZG#/l%%`cRKCSMO>J=;VunDbS>q1`)jirXKG?=@>IpbQTbiDn3L56BGqP$A>9r7\!G7B:,#IFqrq)okSQ8LRMq8,8YM!t_eig#^JpmD%=$U1n~>endstream
 endobj
 xref
-0 9
+0 11
 0000000000 65535 f 
-0000000016 00000 n 
-0000000065 00000 n 
-0000000128 00000 n 
-0000000198 00000 n 
-0000000273 00000 n 
-0000000409 00000 n 
-0000005572 00000 n 
-0000005708 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000708 00000 n 
+0000000776 00000 n 
+0000001075 00000 n 
+0000001140 00000 n 
+0000004595 00000 n 
 trailer
-<< /Size 9 /Root 1 0 R >>
+<<
+/ID 
+[<3cf80d9da84d53eed5083627963e484a><3cf80d9da84d53eed5083627963e484a>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
+>>
 startxref
-11028
+8159
 %%EOF

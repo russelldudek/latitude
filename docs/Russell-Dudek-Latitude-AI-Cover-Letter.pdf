@@ -1,75 +1,75 @@
 %PDF-1.4
-%ASCII
+%ASCII ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/Contents 8 0 R /MediaBox [ 0 0 612 792 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImaeB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
 endobj
 6 0 obj
-<< /Length 4574 >>
+<<
+/Author (Russell Dudek) /CreationDate (D:20260715211320+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260715211320+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Russell Dudek Latitude AI Cover Letter) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2800
+>>
 stream
-0.035 0.090 0.180 rg 0 720 612 72 re f
-0.000 0.360 0.950 rg 0 712 612 8 re f
-BT /F2 22.0 Tf 1.000 1.000 1.000 rg 54.0 759.0 Td (RUSSELL DUDEK) Tj ET
-BT /F1 9.0 Tf 0.750 0.870 1.000 rg 54.0 738.0 Td (Candidate letter | Senior Autonomy Integration Engineer) Tj ET
-BT /F2 10.0 Tf 1.000 1.000 1.000 rg 470.0 759.0 Td (LATITUDE AI) Tj ET
-BT /F1 8.0 Tf 0.750 0.870 1.000 rg 470.0 738.0 Td (COVER LETTER) Tj ET
-0.730 0.800 0.880 RG 0.60 w 54 42 m 558 42 l S
-BT /F1 7.5 Tf 0.350 0.390 0.450 rg 54.0 27.0 Td (Independent candidate materials by Russell Dudek) Tj ET
-BT /F2 7.5 Tf 0.350 0.390 0.450 rg 520.0 27.0 Td (1 / 1) Tj ET
-BT /F1 9.0 Tf 0.350 0.390 0.450 rg 54.0 685.0 Td (July 15, 2026) Tj ET
-BT /F2 10.0 Tf 0.035 0.090 0.180 rg 54.0 663.0 Td (Latitude AI Hiring Team) Tj ET
-BT /F1 9.0 Tf 0.350 0.390 0.450 rg 54.0 649.0 Td (2545 Railroad Street, Suite 400 | Pittsburgh, PA 15222) Tj ET
-BT /F2 12.0 Tf 0.000 0.360 0.950 rg 54.0 621.0 Td (RE: Senior Autonomy Integration Engineer) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 593.0 Td (Latitude is building a vertically integrated autonomy platform toward a 2027 vehicle launch. The) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 580.0 Td (work described in this role is not simply debugging or configuration management. It is the) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 567.0 Td (discipline of making specialized teams, hardware, software, evidence, and ownership behave as one) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 554.0 Td (launchable system. That is why I am applying.) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 531.0 Td (My career has repeatedly placed me at the seams of complex systems: software-enabled robotics and) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 518.0 Td (machine vision at Vape-Jet; regulated autonomous drone operations at ZeusVu; high-reliability) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 505.0 Td (electronics, root cause, and quality systems at Compunetics; and 24/7 launch mechanisms at Amazon.) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 492.0 Td (Across those environments, I have been most useful when the visible symptom crossed formal ownership) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 479.0 Td (boundaries and the organization needed a bounded reproduction, a clear operating decision, and a) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 466.0 Td (durable mechanism rather than a temporary workaround.) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 443.0 Td (I have made that reasoning visible in an independent candidate vision at) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 430.0 Td (russelldudek.github.io/latitude/. The System Coherence Frame treats platform configuration, compute) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 417.0 Td (and network, sensing and actuation, autonomy software, validation evidence, and ownership as coupled) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 404.0 Td (layers. The accompanying closure record, interview brief, and 90-day plan show how I would enter the) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 391.0 Td (work: learn Latitude specific failure language, own bounded integration problems, and convert) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 378.0 Td (repeated friction into stronger tests, configuration lineage, and handoffs.) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 355.0 Td (The strongest objection is legitimate: I do not claim verified senior production C++ experience or) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 342.0 Td (prior ownership of an automotive autonomy stack. I would rather expose that gap than decorate it. My) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 329.0 Td (proposal is a realistic, bounded technical case during the interview process. I will make) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 316.0 Td (assumptions explicit, reproduce the failure, connect evidence across domains, respect technical) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 303.0 Td (authority, and show how I learn in code and systems.) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 280.0 Td (Latitude needs engineers who can move from architecture to the weeds without losing the whole) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 267.0 Td (system. I would welcome the opportunity to demonstrate that operating range in Pittsburgh.) Tj ET
-BT /F1 9.5 Tf 0.080 0.110 0.160 rg 54.0 244.0 Td (Carpe diem,) Tj ET
-BT /F2 13.0 Tf 0.035 0.090 0.180 rg 54.0 224.0 Td (Russell Dudek) Tj ET
-BT /F1 8.5 Tf 0.350 0.390 0.450 rg 54.0 210.0 Td (412.287.8640 | russelldudek@gmail.com) Tj ET
-endstream
+Gatm<?$$a[&q'GWR$XlHD9$V+Ocl53FC@Z3L+`N\4=YF\)4HLe31!5V(^&++HER8]cfRP1ko=Yse_]R@^"AJJ3q1Q2(B;Rcn*O3dm8iP1"AF8JYmEHpP:X)GTL’
+ÎU™QÊ\ÔÕ^4;)0@@C&RX#'W:OR:FM+`Men9Ca`O-:3UcMDVj'mR_0Im'&'"4:pL-+DZAdqPZY6e?APL4sS[Gc'ka/H:2h.ae-X-N)n):TbI)qc=d950F(/m'7B8bH-U-(VD`*%#(ZnP]PM_nYbHld?BYjp]3lLNagSc<?umcrW3^XM;po&B?8q==+4'jY(X^:_%e\>K;RbBG&uoBjM;H#\8j8Mp)P_CW`s;3^1q=e(KQ-ZCgO:+dRs3;5YiRJ4ia]B[UP4/)E30UjA&PV01cQGrW4![&fLn]so]<#$.Z`f!GH2mQBlIlp`Ul/BMV^jTcURn(qq[sbb4g*jGt<fth.Q#On)g$)qp8KW(5O7U>BOGE/R7u2*hEXW2n9T,A1Go#MJiH%F0*X1\?/FWJ,k#(EWIbVJ)kEf/(VGsC2P&?Ob\cFEZ0PEF"cOs?7h=8_`@O(D0K;SrYIe,GDmtmeW@SH]\U;i\kEus4iFpu0V_dA'(4+>XYG:8@UV/\Q.BCu;;ERrnCp>$/=3;@UAn8oSnF#FK*F#M,m/>CWAiUOLUj*rSSRLLjFW4cR)fHKVYLM<@AF:D+d/P>ltN0J3H+$,+7A9#7hp_D&;4AF:;@\..ha((^<;)74k8HmhcOo!/bHRK<D*<.4:TgNE4?nclGdJPQMPN$q[R6K`Wk_QOO%?@Nt+[N6XX%Lt([_gEaU@]a4#ZF@.[<O7Ea^X#g8oO.;"gs(c(SVYsqgu8&7nuu7DBquiQ,]di<8aKcSD4qq;`Ou./39[J?/LceU:A$j>B)1HP&;O,;g*kih,ZEnBaku&Crg9hTI$YjDC=qH`j/4jM0G2V9W4(kVp12[C"B$:[k2\,;:\_1B!!s34@)Dsi#gj6MG'M@>i)JY2?aRWr?GcKdn4gY.?'EJH7iJ7h]M"+PNc7k2H54aLNQ2XW&.u8!9o<b4X;6p-aM])P_<R^J</?BgiO8U:Hd^K_tlI\A<"'m]G672,[&7+);Y'NT0!&4mK*T,Fug_-W^PGQ>LKV^(h,3tBOoL.cQrSXN*:?Fb:U$1P*.sSam$TdE.<QMYS01[-G6=/ob%):_+NN-eZ,<@Xk2"Z!%Kk;'PrftGc!2R"%/"Ue581CmT4/Pq"I6p[Z:!_OiE-[.`m&?m1__iYRnWhi*mcH@];Y;d4"<r!mLG6/Anu\CF23:WiYUKF/6n&(-c'A=nWOYc5h<IXZUmHMKh.u=,R-raHLc.V6]<d6]IN@^aYd3G6`E$?/'+H7C(TSMr`Y&N(6L91T3rS-Rqb5:e\5]p5>q:-#P?!\CY+`_ck0^**?ji8k8oHSc.3GH_-6.Og$ZIl?b#.%W_\LOi6eIaGRBISlsd3hQo]#X7LBDU0s9H/DmI";CQNqV-='V]!IW\e`Kl.G:+nL@2&t^ZGdTF3XAgAJW(t)?h_im\Yqb0k+<1B,qjn<pjrcKCdFd/,:b'@MK-:i?7hV+Om^*,!UIGWH$#aQXGKW"#U5VnW`)p>Ho"s<P<sAWoa_9VBU=c"C[nG7`MKUHL3EhtXSglLU)EMBn3=+q+-8I,cK@8R`!!:<*_?`8JeWMm:gt3OP'R-t0"C\U07)=,.\s0.9'cl&DVlh])HBG<!gJ5d,(!%0;MmQagdjDpVW3^+I*j2MF_KPD:`K4=4\bP?N9eTP<ANZc_n@7`iA;V#:U8qS&c7dc"*G7Rb"<0s-G^C,4Ge]QnZHn^p0qBVKr/+CiJKGap%dnoX+OCq;/V;!O>c!:Xf>UnPX@fKPjl31c3m5Pa[?eIZW8-//#(4\$ga_Y:n=i&1T2GNb!LZ'It4Y+('V#Y[^>M'+ckD$q?HFc(>e!H'.2(V,jl#@=GV2dPC$^'*ni0(iJklhGSo=b(@N%KYJ8figVY"u5!Gf;cf-#^eT#8N:fK*aq@5irnpO3^2/Y[.qA3-Z\JR:j(@qM6&),FE'`*Ed&01S!egP;tU4mb>?cul^6?N<L<\Efb#!*CNbh2T?d#JDRRN4]KR_H9!LDTM*kf(3!/ChD-<44Iff)(ZG5[.6,d`[[`NU=t+Q*ss(6^&0q,?^V/[)'MM1k+3C;.uS+eOEsU0iF6[gt[>QV*_uC%t!?Hq\+lg.48I3?J_*fTkgh_#ZiDf>!YCrK]0qZmIpB6+BQF(K<R^EDWDUX&GpNH1X4@_pl[FH/qsQ=(UB;8kN^e@--Fg9`Y(%sHb=L([4b9N^Zu)Pkg?Y:$(crhR)t$3SeYT./&oTmDSmLgK<P7da-W5$bs8uEGEFI]@#d'9p[.R6klYcVH-9qhB<bN^KSPBb@lA?hAu-8[aI0jqi)St2i1QG86.`ig8,MF39Y.ngU5UW6O!WZmDAp2U-cV,apZVdC@6b(jEM=GbV6p7Fj],4^hR=]QOKq@)FM/JML+b,GnbZXI1$ZL$E`[A/c?[kus(dDiP;l1oklN?Ih!Hb4^8*GM2e)h!(?;ul`F"pup:@7b$(%Zs?u[tDDomco"_b8\)m])CBu&\UZff`OG:WjKU(O&hXSCd65S8@p\EL;l#J,X/%MZ`7Wr1*X]PuQ^7bHMkfuS_NL"EL+5d[\=N9TdNUAT\6)mV?VA,:K]K9!.9JdF(,H`<rng'd'tS\Yb2$,:'s=rTLK"r4)UF4j75VL:?EGW28npoXInJc;K"/Q>EcBE'*9cJh(Yf89-(duXH%MiH35rrLGe@r2~>endstream
 endobj
 xref
-0 7
+0 9
 0000000000 65535 f 
-0000000016 00000 n 
-0000000065 00000 n 
-0000000122 00000 n 
-0000000192 00000 n 
-0000000267 00000 n 
-0000000403 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000582 00000 n 
+0000000887 00000 n 
+0000000946 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<<
+/ID 
+[<72c9c93ed5c2bafb9365443d2d61bfd2><72c9c93ed5c2bafb9365443d2d61bfd2>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
 startxref
-5028
+3837
 %%EOF
