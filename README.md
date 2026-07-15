@@ -10,25 +10,25 @@ The campaign argues that integration is not the phase after engineering. It is t
 
 ## Public artifacts
 
-- `index.html` - candidate vision and interactive System Coherence Frame
+- `index.html` - direct, self-contained candidate vision with the interactive System Coherence Frame
 - `resume.html` - role-aligned resume with an exact two-page committed PDF
 - `cover-letter.html` - cover letter with an exact one-page committed PDF
 - `interview-brief.html` - interview thesis brief with an exact four-page committed PDF
 - `90-day-plan.html` - entry plan with an exact two-page committed PDF
 - `integration-closure-record.html` - printable operating worksheet with an exact one-page committed PDF
 - `docs/` - direct PDF versions of every printable artifact
-- `payload/` - compressed, split source bundle containing the authored HTML, CSS, JavaScript, brand intelligence, and campaign audit
-- `loader.js` - browser-side source assembler used by the public routes
+- `payload/` - compressed source bundle retained for the document routes and campaign record
+- `loader.js` - browser-side source assembler used by the document routes
 
-The source bundle is restored in the browser with the native `DecompressionStream` API. This preserves the complete authored campaign while keeping every repository object text-addressable. The printable PDFs are standalone files and do not depend on the loader.
+The redesigned homepage is committed directly as readable HTML, CSS, and JavaScript. It no longer depends on the source assembler. The remaining document routes use the existing browser-side assembler, while all printable PDFs remain standalone files.
 
 ## Interaction
 
-The System Coherence Frame opens with an illustrative new-platform bring-up scenario. Visitors can compare platform bring-up, cross-domain regression, intermittent failure, and configuration drift. Each choice changes the affected layers, closure state, reproduction logic, authority boundary, system change, and release evidence. A reset returns to the labeled baseline.
+The System Coherence Frame opens with an illustrative new-platform bring-up scenario. Visitors can compare platform bring-up, cross-domain regression, intermittent failure, and configuration drift. Each choice changes the affected system layers, closure state, explanation, and release-evidence readout.
 
 ## Accessibility and responsive behavior
 
-The campaign includes semantic headings and navigation, keyboard-accessible controls, visible focus treatment, useful content without interaction, responsive desktop through mobile composition, reduced-motion behavior, and print-specific US Letter layouts.
+The campaign includes semantic headings and navigation, keyboard-accessible controls, visible focus treatment, responsive desktop-through-mobile composition, a dedicated non-overlapping readout rail, reduced-motion behavior, and print-specific US Letter document layouts.
 
 ## Job-posting provenance
 
@@ -38,4 +38,4 @@ The campaign is based on the Senior Autonomy Integration Engineer description su
 
 ## Brand and authorship notice
 
-Official Latitude AI-hosted logo and photography URLs are used only to identify the intended employer. Their provenance and use decisions are documented inside the source bundle. This is an independent candidate work product and is not affiliated with or endorsed by Latitude AI or Ford Motor Company.
+The official Latitude AI-hosted wordmark is used only to identify the intended employer. This is an independent candidate work product and is not affiliated with or endorsed by Latitude AI or Ford Motor Company.
