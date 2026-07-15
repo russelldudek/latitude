@@ -1,105 +1,93 @@
 %PDF-1.4
-%ASCII
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+<<
+/Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 6 0 obj
-<< /Length 2584 >>
-stream
-0.035 0.090 0.180 rg 0 720 612 72 re f
-0.000 0.360 0.950 rg 0 712 612 8 re f
-BT /F2 22.0 Tf 1.000 1.000 1.000 rg 54.0 759.0 Td (DAYS 0-30) Tj ET
-BT /F1 9.0 Tf 0.750 0.870 1.000 rg 54.0 738.0 Td (Read the system in motion.) Tj ET
-BT /F2 10.0 Tf 1.000 1.000 1.000 rg 470.0 759.0 Td (LATITUDE AI) Tj ET
-BT /F1 8.0 Tf 0.750 0.870 1.000 rg 470.0 738.0 Td (90-DAY PLAN 1/2) Tj ET
-0.730 0.800 0.880 RG 0.60 w 54 42 m 558 42 l S
-BT /F1 7.5 Tf 0.350 0.390 0.450 rg 54.0 27.0 Td (Independent candidate materials by Russell Dudek) Tj ET
-BT /F2 7.5 Tf 0.350 0.390 0.450 rg 520.0 27.0 Td (1 / 2) Tj ET
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 684.0 Td (MAP THE INTEGRATION SYSTEM) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 668.0 Td (Learn platform, configuration, build, test, release, and blocker flows. Identify where software,) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 655.0 Td (firmware, calibration, hardware, network, environment, and ownership identities are recorded.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 632 m 558 632 l S
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 625.0 Td (SHADOW LIVE DEBUGGING) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 609.0 Td (Observe how experienced engineers move among architecture, logs, code, hardware state, test) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 596.0 Td (infrastructure, and cross-team communication.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 573 m 558 573 l S
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 566.0 Td (LEARN EVIDENCE STANDARDS) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 550.0 Td (Understand what constitutes a reproducible failure, a credible hypothesis, a sufficient regression,) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 537.0 Td (and an acceptable closure at Latitude.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 514 m 558 514 l S
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 507.0 Td (CONTRIBUTE BOUNDED WORK) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 491.0 Td (Take small, reviewable Python, test, tooling, configuration, or documentation tasks that expose) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 478.0 Td (technical judgment and accelerate learning.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 455 m 558 455 l S
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 448.0 Td (PERSONAL MECHANISM) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 432.0 Td (Use a lightweight closure record to capture observed behavior, invariant, reproduction, authority,) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 419.0 Td (change, release evidence, and learning without creating ceremony.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 396 m 558 396 l S
-endstream
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
 endobj
 7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+<<
+/Author (Russell Dudek) /CreationDate (D:20260715213217+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260715213217+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (Russell Dudek - Latitude AI 90-Day Entry Plan) /Trapped /False
+>>
 endobj
 8 0 obj
-<< /Length 2718 >>
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2950
+>>
 stream
-0.035 0.090 0.180 rg 0 720 612 72 re f
-0.000 0.360 0.950 rg 0 712 612 8 re f
-BT /F2 22.0 Tf 1.000 1.000 1.000 rg 54.0 759.0 Td (DAYS 31-90) Tj ET
-BT /F1 9.0 Tf 0.750 0.870 1.000 rg 54.0 738.0 Td (Own closure, then strengthen the mechanism.) Tj ET
-BT /F2 10.0 Tf 1.000 1.000 1.000 rg 470.0 759.0 Td (LATITUDE AI) Tj ET
-BT /F1 8.0 Tf 0.750 0.870 1.000 rg 470.0 738.0 Td (90-DAY PLAN 2/2) Tj ET
-0.730 0.800 0.880 RG 0.60 w 54 42 m 558 42 l S
-BT /F1 7.5 Tf 0.350 0.390 0.450 rg 54.0 27.0 Td (Independent candidate materials by Russell Dudek) Tj ET
-BT /F2 7.5 Tf 0.350 0.390 0.450 rg 520.0 27.0 Td (2 / 2) Tj ET
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 684.0 Td (DAYS 31-60: BOUNDED CLOSURE) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 668.0 Td (Own a defined issue set from intake through reproduction, repair coordination, validation, and) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 655.0 Td (closure communication. Improve environment identity and blocker precision. Add targeted tests or) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 642.0 Td (checks where evidence supports them.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 619 m 558 619 l S
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 612.0 Td (DAYS 61-90: INTEGRATION SLICE) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 596.0 Td (Lead one platform or feature integration slice across configuration, build, system behavior,) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 583.0 Td (partner alignment, validation, and release evidence.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 560 m 558 560 l S
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 553.0 Td (REPEATED BOUNDARY FAILURES) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 537.0 Td (Review closures for recurring violated invariants, configuration gaps, ownership ambiguity,) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 524.0 Td (observability weaknesses, and testing blind spots.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 501 m 558 501 l S
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 494.0 Td (ONE HIGH-LEVERAGE IMPROVEMENT) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 478.0 Td (Implement or sponsor a bounded compatibility check, configuration diff, targeted regression test,) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 465.0 Td (observability improvement, or clearer evidence contract.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 442 m 558 442 l S
-BT /F2 10.5 Tf 0.000 0.360 0.950 rg 54.0 435.0 Td (90-DAY REVIEW) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 419.0 Td (Assess trust, technical contribution, blocker flow, traceable evidence, retained learning, and the) Tj ET
-BT /F1 9.4 Tf 0.080 0.110 0.160 rg 54.0 406.0 Td (next area where deeper ownership creates value.) Tj ET
-0.860 0.900 0.950 RG 0.50 w 54 383 m 558 383 l S
-endstream
+Gatm=968iI'#*[5oPJe.$;CRE8Ch%s1S\JdjfuM-ElaB?+H[V#<0<D&Y*pHIh$risa.?!`N2sgMKLRoiIJn[5J<,0\s.AZZITaS-LB%AVlR`7^;m<ujeTucgiEroq<&cT>1h`BlBkRokh^prt"u;A".?4?On?bjl::gJ8&9'rV)+,ZsfL$K)Q:cBe/J4s9!7-^8-1Qh-LbL))m"U$5A2du\"F_7KIq_1h^j6N@^H]0/.80I'\1q@i!UKd$qAmiSU^0;XJ0u"i(=5(Meup,[jCqd]nS#D8),Lna\1>.nI69F"HjP"`n0b/"GTr0\==YJKNHJVrpA_\XVa]i]ocCjrMs?5R'GV'1MX"Y3ET60iX&?:Sl""^6FSYIS/*`$Jm>;B<]9r$YNT2)k1@c:/f[K,NXieEe29q7L]A^\Xs4cXJ=P^(I5Ju=MjULY>@<HX6HOlI8f!dTI^OM!=S+Z(,rT3n@p')mn]Xh7Jm_@rS[23&.d-asVKei0d5R@-#JTPPoj*D*mCtnuR5AW[ihCCMRW-&aEnuJcH%<Qko+*T`4Vda/9b]p?aRgMdZA/_c2J"N!KHYeXbNZd^<p+0R!Y:%h,*lHKkaEk/;%33NtJtdsYBo?8.2UL"<"M&R?Yl@o8C"=<R'%/,MMpC7R0h\$=QW]mqeIi5Ed]UF^FTkM=gu\DZUt#Ycc&.fNI&rCZ->a+=_P>f8(rqEOZrp<i(=`n6Q"jr8mnK)lc"OG*G\NJ]+\u<p7^L+-JA)g/3X&YlFh$Fnh)OLbBs!cbM2Z7cN0Ob8;e;CU0+Lor?D8'>JB,^-n;55dKG2]68YMu2r?@1'9-m3Y$iEimOE(an]f8m3%2<=\Q8#+--cK+r<5nNU7=8]`"GLk>A%N;3B]HcIb7W#F!=b8oE+T>,oZ-cs/b0),b.irFMH+@8,C5'O.`AakUW4L*!<9a.,]p`2]YB$j^K0jnq-gu5rL;*\Md>=u,<q.7Q\6E3nhqOFSg5Wr3bG!13]Kf\6"%I#;[bOp)5AMhU7a__&bO*pUsnO-[0V=aUh<.d8AN,9lp<P'KC&85%dYp6!C#Y^Cp-;,3.L1[IsLbtaW\+7s0Y4knn*g'g15J/A/K(#IZH<S,(CX-?R,8=EK=_K,[iJ>VM!n0;iH97J,8Eh%Ki#+oN7=s%bo:9*LQ,kB^0>NWpXMd&K5_hgS1a<B5"p>kje^cO:FX(&*Y<fMQ$ZjDO2&sgL>AK=^dq'R+5k)9H9otWGA)ln<B6XL1`'2Y22C2]Z<_:H61uRpn"*+h?6li_m)".LWj37C2MC5e#hl+3@?]=1cs#65JU#Ykh52*BC*P['@I[1G5@nBB,HA`SREAK?tU<'bYEI>4%U:B8L*5%YK(\If]e0OS\<]B$iP)EcGRq(f`Z7Oan"2l4s?k[=m7B3N<1Af5rrD[B2[_+eBQ&i>:a1:@+02BZ(Y]3AmA<444VTB-+'Oal\=VCm-:V-,CSlpG=oE'1"T\C?6[?]W[WHd\*PG2%5m0_@L=t('E-\8g[.,);_iHr,AG"U)A9$6e0F:D9H<@tS2f*!,^@-dPt5L-4dgF<N3&e:N(6$oj2A6`%$Xf>kH#nXSA4[":.7'DID?>Z37).l2sZ^:D<O,$0IP"_e2(&EEpCc^@tVJ4qr<6pZ,84u:0!fgp=Q<b4sPrT1U1WJ,N^#V6BA`fq[>JS9Dc@dFS24d+CqF%r:s0!$H<9^akmUJ`,7,!%n+/A0E*<a<#?.I466YW.G[4_(Bp\N"-nqURjn/)4@i+4OsW#]+gF^1r^]C[ajEr+Sq\G:8OF(m)N)V`:de5#ieWEAl`hum%EUkL"ok*IjH&nV-5m*:dA(5g.1OKr5sK<)O.q1=?G;.^Kt6N[mE?V#@`t37=C]`ap=X<i0&7[Xqi(7f2/Ou;i0l1m.Bg9Rh[g*.0_E`3<RXm<G&J!)07F!(+3Q_Bde3uh-JJ:$Vk#KeB]i%31g`sjk=:PU1@,ru)(%"M-ZoETaFU0.#p\hN7)\B`=E]Z_)6gL6bmmq@O7RQ:g.D$S^k\Z#qS^u5ZT5YVbXk&KD2#_f<KOL$m&/4eoNoQuN@H[=qrg@Hljlhh`''Y9/^^_o>+IPlZKu5:F(Il@5"0&,I^V$PX0)1"do8Uh>"Z"(jM/;d,$c;\roS+5D\Gt2JUi)7X[1A&^Z/oRn5/JrNhjeANeYIoI#^-I&c7Sr,3e]f8CWQeSOc)]g!Q"%FsN#*3uT8r#!J8X?6]PGYef\!L&O&]kIT?'=Lsum[(jE3ITkWW>!L4D\O'-R#.,*t!J0fY4OGk@#qgntJ0Kpu^A1pR7Gt,%(G];OEfhlHC#m]u^=?`S$LK$=#T(%(fg/8Mj9dVCj9kXfQ61JpTpgGhgsSuLnTRI$E'<suQNMT\l-_43YKMo>?5048'=K%U*H$H[12]Ft,Ar)\\-')?3a\0i2_2H1+&rmi?BK5;.h#[UU(Oqd-B+%%LE0%)E^EPn'92MSIa<OO&?6=-0cPYUX@)L/A(+i&H]RZ=6\5E?giTIjE>1hY3truDAJA^S7hfMo%>-?X.'gc>>,dRW6']<F<b)ot$DWDI4/+-:_E\)B=GA5ZU6PoiKd2Jgh_UoRZkuZ)Z_>I`p*`\*Wf+Tc]j@U=:I\ZP#hCT--R:t54T@Cn;JQNGd_^R;Zl6b]H4i)Y^tlHM%W!XU`(&:5ZArm3ZPAsF[@ALH4iu,q^dQVFcaS4`k=8P3T_!L7Yji&SJurVeS!S8*hc=?&_9Uc-2h%tXeLB?bUGP>TNKcf#RTL`Yg0tt@;^*Q*Ysk0/h7(?*Cnk`UgL=5h,NTJ<;(s2sU.KgC"(kKm42e8Ndqqo-,!*L%.'c]4+s,$2ASG;&pqQ@qcJ9sOg@;$MGisCJ)("YVki4=c;p=,g(0`Nfl;GRgbp<_pipqk2DW-1u4f\L0%U<=+L>*pH$p<2Z1k3AH0/f^]atPu3C031"QrZa[r"ljY(BX~>endstream
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3331
+>>
+stream
+Gatn)gN)%.&r,lJ'Y)pm8MkGFl#)bSRo,G&]4>KRE_0,iKJ=!@P*3jaoC1Lo"%g[2.[ajQ'fI<=%0@W#FG$=+LHhg=cO*!&DTL);.A;]:p4NcKONf@[CaSW`r7-Qo#rb=1,U(qUKqt#Fs'ap_SFVIL:PA3j,$r>("ui[!9Gi&03]n`$o1;6"88'M$O&1a',+umGUKDKF65qH]d#7;r,;dd'Li"Nt;el2f%>L*`$M'8N\S5TGPL&E_I/55Dr(]-ln8=:C)MAFeGS5T5ka_A/>,NY:6>SjUn7gd$+<p426+(R94kGJLPW[13?UR`QYrM=6;#!kg9a>k*s'LO*<OnGr"alH5nk&7KM8^E6h@+<BFS*^+&%1$Jc/(aoa7Ik\eP2XDWeJc:L/7Z:iU7",o(7UT?7=ZU<)1+LK_qO[4E0<+50q!+`G2aY7NQI1.sRB#`G0\5-M+F1qpkZ$2mQ\*(15Yac16;e2h"o4(5qjh%"@EZVFTS=9of@IG`:Vjpgs`YK-ZCTHbtM$&s;sJGhRe#/'oLR%I"!FL+t!n,`%hrEj3&Dr?0TYj:JJ#S-WO2S7E:M-)&$lXiT#UX!TRK/]'Bo:;Fpu4>mXW$)Xr-VsP&`6j"Fi`is?m>0nAGhe[>'i-P7iki$o01O@G1UF-+V/+`m+F>/i<K[X([Ub;*Wf(]2IONh\Oo!nV'Rc"+oE-eeN.usNML@-=3@CWsYUgZ)nU.<qh(60E:%nb(_H6AXE7<'=%69!=h_iD+)d8u<H?@71GZkG-$r"@HiQ>eD2mFq:$82E3Qc>?VjqIBD\,Q7/M:M<R@1uc2g"s-)5kl#Qo[ahqDaW45i.h=Kge#F\><IM:'NUTb#H[uj%+&;UXT8:anf'4Fck_%)_FP/K`foUUkZ;\qF?1#q*p>6qWl?kRS/?bL`/Z7Z$b*+:cn:`-ar1bS/O-?YF+j5%$j@/HHR7VEi:K(.SQa33G[+ms:\P*r6:0#b01KZ)-R;0E4n-NL!(js[Ki"P=N#93kDO&$>`%NdoUq"Vrg5*Qt5.(/hH3lHegXmPCf4#6T("-$+>f%%Y:f`$n`:QQF0I;E\%*ah`8;Jd@U?dc(!<VnNu3^IQb@9ERP#gZ/3!?J$5'*-1U6Sg$*S\jH#<=SQ%q43Z^)#L<cDR-:tX2EV2NL[@jY@J*mWg`9RH7/e(Pr7Xu-ioG3Qpf:^VP'1_(d.kt%5*QYfF\G!m%?4D#E+Cm84:da80Z5P+G=;R&E+?cJVZ0FGh)/RdBeHOUr1a3[P7'@KA7='2*9G4gY\.GiBklR?2B4q2Okcn2bn(XDK@ff5`?R_c_j]A\"lR$UFPB,QK\m-=gtD^*l(P,<;ZAL7EsMd\hI0Nk%\+)ZqB!q#9Z+i70/36K2?G*F;D2`!B96d<FsXBV\4)cG,QliV*0nECc*HB`-oZ=pKt0.7?%f\8j,gP=I+UL0@8][/.#F$\ja,DQI+hu_@k;Vl=l_kQFO.M3O`9Gk`>-"3%ToB^=%aQ?=cp<`YgARV98FhNQI=h'(,1(UY3m+>_i2'10'n"#55%',u'l;-s4HfXbnR_GQH%:iJocAa-T^.!nt_-qK?@qB.HorC,XKE`ZaJ&i1Mq-#E-Y,&*"]N*`3.PN?'tiWEb"lQiRGp"ro<$i%P7kX+rTm%63Q:K@@AR[BMm(^E\<iRs=!m<F-qaJrMR*/h6uS[5&[?*V`gMSF:Ws:$[GM!2p*B?sh=@GEgbo5bQZ+<G!IEaP+5JiU[Fjd*>J=dfWeki`GSg"5Ho0)7_I\JIl6`,uaHBLZAr;%pF_"bF]IiSW7Y+Ga"/\2+U6AW4<J@:Ihp6lG<W>jmXD,8k4,fk]?s23ZUM]:IhXB(q=nG[S[MN<a@bq>qL`SoQRBYKSsN2NeDM??omkg=[VH[aiI(e,^5/B^Wfj'a1G1a-&Z&>^uAFX!>]Z7=ZhKK+J!`:c(1;EI]_b&)`>[:?Bf-qM\8ZBU:aQKCe]sL3lm;#'cCD/Ck'K.PV?<"CY"RK]b_uehcYSDcGZn=5i68LVu5=8qp9_6Y%s!hL'hg"8jg$?jJ&YZ0;!f9?cRrNWu,GMX1_I"k,;$%]h7T,,NH)OdZ`J2"q/2-feG'Y;iDsdN-5'&fDI>G%ib)W*'Yupr35CR*u5`Cn>c:MUZVkT84_8%_]m,3F8W7XI[K)LNPuEL#A`ncR)%"IH8i^cBJ;/L@!\b%81l2[8Q2F1%]O<'60(l`NjE!-hL[+?:>/oT@#0VCr@VrIgFB=L-4agk.S$MCT*NRul7ONpR2+B7AKNaNN1`%9"H/'9%0qj=Y[`?0N6jMB:s0,eN6kXb:r<PZ0L@?91pi3`DI"j\O6uC,N;,;?*%^o\9_7sK7MQj\-[h<@_GXcMg7<<;*WB5,F=s&omp+AoX,RjU60-t`6W>k4Z!LD)&H?Cn*[)@hotkeRn@HCbJ=rWuD%.BO81aQW9E&^mI*7[;ABB$HdD3"TK56cd?s(:HAdOHg,qL2k6-g1PAm"UE9E$eA^1#,*M^9k>Ic]!AN;b!,C`:`h>]W#tR)*Kc3or$k&?MgR1'cVX<J`)4ca,8""?@pZhlD(3LY0oW[2nQE!$4!N/m'CF3`?&Unf?CULd$BuZr)?(7ZcGO)[)ip_"8"c,<V!C)l%Wp2F[n(..2`-fU[uSUC],t<Q(7-3abV_'/(]K+C%Ss%B^&,goq@E"#8u^<Ic]hrf%X?65j[W`4O"dn`tMk8EQu!jSiS=0,dkuaMW>7qQtX[>s+.QjCSJ>X]Z9N.gO6=#@`gJ_Ta3@2(M$1E6ure15gn#^T.XP2)Z9(6cWkbjqsL2a2*V-%E5U2g_e>-Xb-MUr>b(KaIG3G!LZJ8,kge*eOmQbTtbkao^g2<G-Z\[)]+f%(O$b.)V#_G;`KsQhPjBfk@1YOkX2=iVt?/NmlC@'RHi[Pc6?&'F"6mghj^u*i*r>OB+PVA60(,1GD^OSr-P[B5mS`Y]EB[&%f%hOl'RJEI.O?90&Grhc.+F-l2uD,\,dgQM=KO8,LaCV$lgHBUC=YT)J/,U<%OcJG"^@"K'nV!pZh6_.uqjN#SYL9#9s\Bp"DZX4jg]=#>1OLd%MGiH<R7`In*<@Y2@j!2d/IaWe6iUjE?pmON(c9rE,=e\G$(?"Si2MBN->]Fa-GW%3%*>`Y'=!_S7!5a7:pa]7D$)ATO#;$h6NF@e/LKfMVSV'OZB-_,DlO=d@+`FM9T3a+!:=M#;TQ#02-a\*S$EHBC7QC0hfL!aU<[Rg_?4E?;:^n#p^:1@1'"=DWJN!f$\Gb5_.@"cSbllFF=;dNJ--CpL8Im;QeoT`BB;MgXt@/&RuE5RN9bRV[WCB)'OS1AN$7baiJ~>endstream
 endobj
 xref
-0 9
+0 11
 0000000000 65535 f 
-0000000016 00000 n 
-0000000065 00000 n 
-0000000128 00000 n 
-0000000198 00000 n 
-0000000273 00000 n 
-0000000409 00000 n 
-0000003044 00000 n 
-0000003180 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000708 00000 n 
+0000000776 00000 n 
+0000001078 00000 n 
+0000001143 00000 n 
+0000004184 00000 n 
 trailer
-<< /Size 9 /Root 1 0 R >>
+<<
+/ID 
+[<1dc45b5ca4da45eea76234e54ffd1725><1dc45b5ca4da45eea76234e54ffd1725>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
+>>
 startxref
-5949
+7607
 %%EOF
